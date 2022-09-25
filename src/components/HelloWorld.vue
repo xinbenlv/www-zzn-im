@@ -3,8 +3,8 @@
 
   <div class="zzn-main">
     <p>
-      Lead author of ERC-1202, coder, thinker, community builder.
-      Thanks for visiting my website!
+      This is a stream of my thoughts and ideas.
+      I'm a software engineer, and I build communities.
     </p>
   </div>
 </template>
