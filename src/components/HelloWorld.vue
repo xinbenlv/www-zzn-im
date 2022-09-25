@@ -10,7 +10,7 @@
 </template>
 
 <style scoped>
-.acf-main {
+.zzn-main {
   max-width: 600px;
   margin: 0 auto;
   text-align: justify;
