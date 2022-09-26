@@ -3,8 +3,8 @@
 
   <div class="zzn-main">
     <p>
-      This is a stream of my thoughts and ideas.
-      I'm a software engineer, and I build communities.
+      Hey friend, thank you for visiting my personal site.
+      Here is a stream of my thoughts and ideas.
     </p>
   </div>
 </template>
